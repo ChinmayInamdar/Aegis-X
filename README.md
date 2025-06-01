@@ -19,8 +19,6 @@ Aegis-X+ is a novel self-adaptive cybersecurity framework that integrates deep a
 
 ## System Architecture
 
-![System Overview](sysarc(1).png)
-
 The Aegis-X+ framework operates through a 3-phase pipeline:
 1. **Continuous Monitoring**: Real-time anomaly scoring (milliseconds)
 2. **Threat Localization**: Segmentation planning (seconds)
